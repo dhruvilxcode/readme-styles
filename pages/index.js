@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <img src="http://127.0.0.1:3000/api/header/generate name" width="100%" />
+        <img src="https://readme-styles.vercel.app/api/header/generate name" width="100%" alt="img" />
       </main>
     </div>
   );
