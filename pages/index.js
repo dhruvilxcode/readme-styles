@@ -8,8 +8,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      {/* https://readme-styles.vercel.app */}
       <main>
-        <img src="https://readme-styles.vercel.app/api/header/generate name" width="100%" alt="img" />
+        <img src="https://readme-styles.vercel.app/api/header/Dhruvil" width="100%" alt="img" />
       </main>
     </div>
   );
