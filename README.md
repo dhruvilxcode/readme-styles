@@ -1,4 +1,6 @@
-![image](https://readme-styles.vercel.app/api/header/readme?subtitle=styles%20for%20the%20header)
+<p align="center">
+ <img src="https://readme-styles.vercel.app/api/header/style2?title=readme&subtitle=styles%20for%20the%20header%0Aretina%20ready" alt="img" width="75%">
+</p>
 
 > :warning: **WORK IN PROGRESS**: Hi, i am working on this project on my spare time! if you have any idea, you can suggest it either by creating issue/Submiting PRs/Suggestion in Projects.
 
