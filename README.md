@@ -7,6 +7,10 @@
 > 👨🏻‍🎨 : **I wanted to create this project in PUBLIC, so here we are!**
 
 
+# Documentation
+[View Documentaion](./DOCUMENTATION.md)
+
+
 # Technologies
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
